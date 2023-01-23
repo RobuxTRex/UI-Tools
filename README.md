@@ -6,9 +6,8 @@ As you may already know, many plugins already replicate the functionality of UI 
 This plugin is intended to basically merge of all these plugins together, make it easier to use & maintain it more.
 
 ## How do I download this Plugin?
-Currently, I am yet to publish this Plugin.
-Please bear with me, as I will do so shortly.
-This section will be modified accordingly after publish.
+This plugin can be easily downloaded via. the Roblox marketplace.
+You should be able to find the link in the Description.
 
 ## Is this Plugin complete?
 No, this Plugin is currently in a Beta phase.
